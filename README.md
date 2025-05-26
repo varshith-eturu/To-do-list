@@ -76,6 +76,22 @@ Export tasks as CSV/PDF
 Varshith Eturu
 GitHub Profile
 
+ Can add task with it's 
+ - Title
+ - Description
+ - Priority
+ - Date
+
+![image](https://github.com/user-attachments/assets/c9c0e4e0-8b71-4630-9e08-326496486917)
+
+Can sort the tasks with 3 fields
+- It's priority
+- It's current status
+- It's date
+
+![image](https://github.com/user-attachments/assets/95a18708-e2b4-4a31-bb4c-3c69ae0f7d81)
+
+
 
 ## 📂 Project Structure
 
